@@ -1,0 +1,31 @@
+{
+  "name": "kendo-react-editor-vs-textarea",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@progress/kendo-drawing": "^1.16.3",
+    "@progress/kendo-licensing": "^1.2.2",
+    "@progress/kendo-react-buttons": "^5.1.0",
+    "@progress/kendo-react-dialogs": "^5.1.0",
+    "@progress/kendo-react-dropdowns": "^5.1.0",
+    "@progress/kendo-react-editor": "^5.1.0",
+    "@progress/kendo-react-inputs": "^5.1.0",
+    "@progress/kendo-react-intl": "^5.1.0",
+    "@progress/kendo-react-layout": "^5.1.0",
+    "@progress/kendo-react-pdf": "^5.1.0",
+    "@progress/kendo-react-popup": "^5.1.0",
+    "@progress/kendo-react-progressbars": "^5.1.0",
+    "@progress/kendo-theme-default": "^5.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.8.0"
+  }
+}
