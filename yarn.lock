@@ -382,6 +382,14 @@
     "@progress/kendo-react-common" "5.1.0"
     prop-types "^15.6.0"
 
+"@progress/kendo-react-form@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@progress/kendo-react-form/-/kendo-react-form-5.1.0.tgz#89d2a04edd54af5de6aba3161c34a1708fbb6a1e"
+  integrity sha512-q0YHvoE6VzuYCYqdc2iC6Bd679huYNDrEIWs6dU00l47dxtYPgprEpS+g1hrMfRGAA5zwRF/S2PBTVYgbFPXXw==
+  dependencies:
+    "@progress/kendo-react-common" "5.1.0"
+    prop-types "^15.6.0"
+
 "@progress/kendo-react-inputs@^5.1.0":
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/@progress/kendo-react-inputs/-/kendo-react-inputs-5.1.0.tgz#4b2a9f39b1e087e7feaf370b3c17f1de4d741842"
@@ -439,6 +447,14 @@
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/@progress/kendo-react-progressbars/-/kendo-react-progressbars-5.1.0.tgz#8e3ff9af5fcfebf744696832b7f6cbe637dbcef6"
   integrity sha512-xnhIuQjBSqkPLt5kg8eC3wqC5MgppktNPiq2nUOGjiEa/GRlLxBaFw4jA015NUrCGnuJYu9a751L0xcg8jrJWg==
+  dependencies:
+    "@progress/kendo-react-common" "5.1.0"
+    prop-types "^15.6.0"
+
+"@progress/kendo-react-treeview@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@progress/kendo-react-treeview/-/kendo-react-treeview-5.1.0.tgz#07615462ac7289a18912db4074c6b4c4d57dac31"
+  integrity sha512-2tmt4UBBGtt8BS2hIt177SQ86WyOJdhjFhC3dGtmrsNGZDiCALk7W2wtBMVTEGrUURMpVGIW8EVGQ+c9XhOWPg==
   dependencies:
     "@progress/kendo-react-common" "5.1.0"
     prop-types "^15.6.0"
