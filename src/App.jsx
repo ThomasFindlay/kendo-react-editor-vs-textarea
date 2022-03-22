@@ -5,10 +5,10 @@ import TextareaComments from "./components/TextareaComments";
 function App() {
   return (
     <div className={styles.appContainer}>
-      <h1 className="k-mb-6">React Editor vs React Text Area</h1>
-      <div className="k-mb-4">
+      <h1 className="k-mb-8">React Editor vs React Text Area</h1>
+      {/* <div className="k-mb-6">
         <TextareaComments />
-      </div>
+      </div> */}
       <div>
         <RichTextEditor />
       </div>
